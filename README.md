@@ -21,7 +21,7 @@ This timer plays a beep sound when the countdown reaches zero, and it can repeat
 
     Clone the repo:
 
-git clone https://github.com/yourusername/java-rounded-timer.git
+git clone https://github.com/yourusername/java-rounded-timer.git](https://github.com/ahsanilya-s/StopWatch/
 cd java-rounded-timer
 
     Compile the code:
